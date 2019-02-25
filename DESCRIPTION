@@ -8,6 +8,7 @@ Description: La librería `eph` tiene por objecto facilitar el trabajo de aquell
     de la Encuesta Permanente de Hogares de Argentina, que deseen procesarla mediante R.
 Imports:
     dplyr,
+    boot,
     expss,
     assertthat,
     purrr,
